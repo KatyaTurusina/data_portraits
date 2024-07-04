@@ -1,0 +1,21 @@
+## [generative_art.py](https://github.com/KatyaTurusina/data_portraits/blob/main/generative_art.py)
+![image_58339465](https://github.com/KatyaTurusina/data_portraits/assets/130843083/35d43f2f-d3d2-45b8-856c-7fa8d92742cb)
+![image_53754756](https://github.com/KatyaTurusina/data_portraits/assets/130843083/39a31318-384e-4569-9c3a-703efe30d9f1)
+![image_21720203](https://github.com/KatyaTurusina/data_portraits/assets/130843083/c452995b-0066-4dd7-bb56-86a289b65144)
+![image_20621936](https://github.com/KatyaTurusina/data_portraits/assets/130843083/5372bac4-ba51-4855-93a4-43dd12c86940)
+![image_19696704](https://github.com/KatyaTurusina/data_portraits/assets/130843083/8b00e9cb-1133-42d5-b83b-f31dd7ba6448)
+
+## [chernoff_faces.py](https://github.com/KatyaTurusina/data_portraits/blob/main/chernoff_faces.py)
+![image](https://github.com/KatyaTurusina/data_portraits/assets/130843083/5fa4fbd2-264b-44c2-af24-d900ae2de85f)
+
+## [castom.py](https://github.com/KatyaTurusina/data_portraits/blob/main/castom.py)
+![image](https://github.com/KatyaTurusina/data_portraits/assets/130843083/435fe2d1-c25e-4470-813f-37beca017612)
+![image](https://github.com/KatyaTurusina/data_portraits/assets/130843083/2a551551-1c7a-491f-a2e5-38c8b1e8ce10)
+![image](https://github.com/KatyaTurusina/data_portraits/assets/130843083/c1562cdb-3864-4f85-9565-9b51dc90d9dc)
+
+## [polar.py](https://github.com/KatyaTurusina/data_portraits/blob/main/polar.py)
+![ekturu](https://github.com/KatyaTurusina/data_portraits/assets/130843083/45566c3c-393c-437e-b518-0d7cc5897501)
+![polinden](https://github.com/KatyaTurusina/data_portraits/assets/130843083/79b8197c-c289-47df-a33c-d69217573e53)
+![plehpls](https://github.com/KatyaTurusina/data_portraits/assets/130843083/5090ddd4-0259-4f9c-9cdf-771eed213bf1)
+![p1petto](https://github.com/KatyaTurusina/data_portraits/assets/130843083/f4e0c8cd-6554-4c08-83b0-849e4025e869)
+![korginevvostorge](https://github.com/KatyaTurusina/data_portraits/assets/130843083/eda65dec-46e4-4b8c-8ca9-e4105fb433e9)
